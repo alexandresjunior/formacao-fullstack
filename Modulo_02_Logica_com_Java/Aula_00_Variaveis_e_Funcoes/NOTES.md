@@ -1,6 +1,6 @@
 # Módulo 2: Lógica de Programação Algorítmica com Java
 
-## Introdução
+## Aula 0: Variáveis e Funções
 
 Nesta aula, você aprenderá habilidades que usará inúmeras vezes em seus próprios programas, como...
 
