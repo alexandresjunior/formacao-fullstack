@@ -1,6 +1,6 @@
-# Aula #01.1 - Condicionais - Anotações
+# Módulo 2: Lógica de Programação Algorítmica com Java
 
-## Resumo
+## Aula 1: Estruturas de Decisão (Condicionais)
 
 Você agora tem o poder em Java de usar instruções condicionais para fazer perguntas e permitir que seu programa tome ações de acordo. Nesta aula, discutiremos...
 
