@@ -86,7 +86,7 @@ Agora você tem outro poder na sua crescente lista de habilidades em Java. Nesta
 * Nosso código neste ponto é ilustrado da seguinte forma:
 
     <div align="center">
-    <img src="./images/loops.png" alt="loops" align="center"/>
+    <img src="./imagens/loops.png" alt="loops" align="center"/>
     </div>
     </br>
 
