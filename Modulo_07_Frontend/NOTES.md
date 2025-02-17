@@ -52,7 +52,7 @@ Vamos entrar em mais detalhes mais tarde, mas aqui está uma visão geral do que
 
 ### Document Object Model (DOM)
 
-![DOM](images/dom.png)
+![cs50Week8Slide065](https://github.com/user-attachments/assets/61a81198-cf30-4a27-a57e-6827e485f5f8)
 
 - O DOM é uma maneira conveniente de visualizar a relação entre os elementos HTML usando uma estrutura em forma de árvore. Acima está um exemplo do layout do DOM para a página que acabamos de escrever.
 
